@@ -3,6 +3,6 @@
 ## 仰賴核心
 * [BMPR](https://github.com/ExpTechTW/BMPR)
 ## 如何放入到BMPR
-請把檔案放入到 `BMPR\Plugin\` 這個資料夾，再開啟BOT就可以使用了
+請把檔案放入到 `BMPR的資料夾\Plugin\` 這個資料夾，再開啟BOT就可以使用了
 ## 發生問題
 * [Discord](https://discord.gg/WUcqzxaq2A)
