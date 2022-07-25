@@ -1,0 +1,31 @@
+{
+    "version": "1.0.0",
+    "name": "replymsg",
+    "description": {
+        "zh_tw": "一個簡單回復訊息和指令訊息"
+    },
+    "events": [
+        "init",
+        "messageCreate"
+    ],
+    "commands": [
+        {
+            "name": "ping", 
+            "note": "指令使用 `前輟+ping`", 
+            "permission": 1
+        },
+        {
+            "name": "hello或你好", 
+            "note": "輸入訊息，它回復你訊息ㄉ", 
+            "permission": 1
+        }
+    ],
+    "author": [
+        "Pisces_#0001"
+    ],
+    "dependencies": {
+        "BMPR": ">=1.0.1"
+    },
+    "resources": [],
+    "link": "https://github.com/PiscesXD/BMPR-replymsg/"
+}
